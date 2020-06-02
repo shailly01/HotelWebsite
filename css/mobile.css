@@ -26,3 +26,15 @@
 	float: none;
 	width: 100%;
 }
+#about-info .info-left,
+#about-info .info-right {
+	float: none;
+	width: 100%;
+}
+
+#about-info .info-right {
+	margin-top: 30px;
+}
+.l-heading {
+	text-align: center;
+}
