@@ -13,6 +13,15 @@
 	padding: 5px;
 }
 
+#showcase {
+	height: 100%;
+}
+
+#showcase .showcase-content {
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+
 #home-info .info-img {
 	display: none;
 }
